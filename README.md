@@ -1,16 +1,44 @@
-## Hi there 👋
+### Hi there, I'm Mohammed 👋
 
-<!--
-**MoeAllai/MoeAllai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛡️ **Cybersecurity Analyst | Blue Team Enthusiast | SOC Defender**  
+🎯 **CompTIA Security+ Certified**  
+🔍 Passionate about Threat Detection, SIEM, and Real-World Defense Tactics.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 **What I do:**
+- 🔍 Analyze logs, hunt threats, and investigate incidents
+- 🧠 Practice daily on TryHackMe Blue Team Labs
+- 🛠️ Learn Splunk, Security Onion, and more SOC tools
+
+---
+
+📚 **Currently mastering:**
+- 🧩 SIEM use-cases & correlation rules
+- 📈 Splunk dashboards
+- 🧰 Windows Event Logs & Registry Forensics
+- 🛠️ Cyber Kill Chain, Pyramid of Pain
+
+---
+
+🧰 **Tools & Skills:**
+
+![Windows](https://img.shields.io/badge/Windows-blue?style=flat&logo=windows)
+![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk)
+![Security Onion](https://img.shields.io/badge/Security%20Onion-purple?style=flat)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-red?style=flat&logo=tryhackme)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
+![Wireshark](https://img.shields.io/badge/Wireshark-006cfa?style=flat&logo=wireshark)
+![CompTIA](https://img.shields.io/badge/CompTIA%20Security%2B-E61F2D?style=flat)
+
+---
+
+📫 **Let’s connect:**
+- 📧 allai.mohammed93@gmail.com
+- 🌐 [LinkedIn](https://www.linkedin.com/in/moeallai/)
+- 🧪 [TryHackMe](https://tryhackme.com/p/mr.moeallai)
+
+---
+
+💡 *Always learning. Always defending.*
